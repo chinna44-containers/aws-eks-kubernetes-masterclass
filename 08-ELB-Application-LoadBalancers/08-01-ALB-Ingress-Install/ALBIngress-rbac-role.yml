@@ -24,9 +24,6 @@ rules:
       - update
       - watch
       - patch
-  - apiGroups:
-      - ""
-      - extensions
     resources:
       - nodes
       - pods
